@@ -5,5 +5,7 @@
 ## 位置 layui-v2.8.11 ->demo>table>table-1.html
 表格动态增加行、删除行
 
+![Image text](https://github.com/advancerzjg/layui-common-extentions/blob/main/img/table/table-1.png)
+
 
 
